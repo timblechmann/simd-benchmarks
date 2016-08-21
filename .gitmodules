@@ -1,0 +1,3 @@
+[submodule "nt2"]
+	path = nt2
+	url = https://github.com/jfalcou/nt2.git
